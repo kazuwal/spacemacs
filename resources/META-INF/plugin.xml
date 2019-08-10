@@ -1,34 +1,37 @@
 <idea-plugin>
-  <id>com.adebesin.spacemacs</id>
-  <name>Spacemacs</name>
-  <version>1.0</version>
-  <vendor email="gregory.adebesin@gmail.com" url="https://github.com/adebesin">adebesin</vendor>
+    <id>com.adebesin.spacemacs</id>
+    <name>Spacemacs</name>
+    <version>1.1</version>
+    <vendor email="gregory.adebesin@gmail.com" url="https://github.com/adebesin">adebesin</vendor>
 
-  <description><![CDATA[
+    <description><![CDATA[
      Spacemacs theme for IntelliJ IDEA
     ]]></description>
 
-  <change-notes><![CDATA[
-     Initial commit
+    <change-notes><![CDATA[
+      <ul>
+        <li>1.1   Fix completion popup being to dark. Add spacemacs scheme to VCS files in tree view </li>
+        <li>1.0   Initial release</li>
+      </ul>
     ]]>
-  </change-notes>
+    </change-notes>
 
-  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-  <idea-version since-build="173.0"/>
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+    <idea-version since-build="191.0"/>
 
-  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
-       on how to target different products -->
-  <!-- uncomment to enable plugin in all products
-  <depends>com.intellij.modules.lang</depends>
-  -->
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <!-- uncomment to enable plugin in all products
+    <depends>com.intellij.modules.lang</depends>
+    -->
 
-  <extensions defaultExtensionNs="com.intellij">
-    <!-- Add your extensions here -->
-    <themeProvider id="770fee57-2bc9-459d-b6c9-44205db46104" path="/Spacemacs.theme.json"/>
-  </extensions>
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <themeProvider id="770fee57-2bc9-459d-b6c9-44205db46104" path="/Spacemacs.theme.json"/>
+    </extensions>
 
-  <actions>
-    <!-- Add your actions here -->
-  </actions>
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
 
 </idea-plugin>
