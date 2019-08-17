@@ -1,8 +1,8 @@
 <idea-plugin>
     <id>com.adebesin.spacemacs</id>
     <name>Spacemacs</name>
-    <version>1.1</version>
-    <vendor email="gregory.adebesin@gmail.com" url="https://github.com/adebesin">adebesin</vendor>
+    <version>1.2</version>
+    <vendor email="gregory.adebesin@gmail.com" url="https://github.com/adebesin/spacemacs">adebesin</vendor>
 
     <description><![CDATA[
      Spacemacs theme for IntelliJ IDEA
@@ -10,6 +10,7 @@
 
     <change-notes><![CDATA[
       <ul>
+        <li>1.2   Fix editor scrollbar colour. Add spacemacs colours to debugger and VCS gutter change lines. Change focus/unfocused background highlighting </li>
         <li>1.1   Fix completion popup being to dark. Add spacemacs scheme to VCS files in tree view </li>
         <li>1.0   Initial release</li>
       </ul>

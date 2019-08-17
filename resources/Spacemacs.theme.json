@@ -230,22 +230,28 @@
       "passedEndColor": "#49A27E"
     },
     "ScrollBar": {
+      "background": "#5B4E77",
+      "thumbBorderColor": "#5B4E77",
       "Transparent": {
         "thumbColor": "#5B4E77",
         "hoverThumbColor": "#5B4E77",
+        "hoverThumbBorderColor": "#5B4E77",
         "hoverTrackColor": "#212026"
       },
       "thumbColor": "#5B4E77",
       "trackColor": "#212026",
+      "hoverThumbBorderColor": "#5B4E77",
       "hoverTrackColor": "#212026",
       "Mac": {
         "Transparent": {
           "thumbColor": "#5B4E77",
           "hoverThumbColor": "#5B4E77",
+          "hoverThumbBorderColor": "#5B4E77",
           "hoverTrackColor": "#212026"
         },
         "thumbColor": "#5B4E77",
         "hoverThumbColor": "#5B4E77",
+        "hoverThumbBorderColor": "#5B4E77",
         "trackColor": "#212026",
         "hoverTrackColor": "#212026"
       }
@@ -331,7 +337,7 @@
     "Tree": {
       "foreground": "#B2B2B2",
       "selectionForeground": "#212026",
-      "selectionInactiveBackground": "#BC74BF",
+      "selectionInactiveBackground": "#5B4E77",
       "selectionBackground": "#BC74BF"
     },
     "ValidationTooltip": {
@@ -382,13 +388,13 @@
       "Objects.GreenAndroid": "#49A27E",
       "Checkbox.Background.Default.Dark": "#212026",
       "Checkbox.Border.Default.Dark": "#5B4E77",
-      "Checkbox.Foreground.Selected.Dark": "#B373C0",
-      "Checkbox.Focus.Wide.Dark": "#B373C0",
-      "Checkbox.Focus.Thin.Default.Dark": "#B373C0",
-      "Checkbox.Focus.Thin.Selected.Dark": "#B373C0",
+      "Checkbox.Foreground.Selected.Dark": "#BC74BF",
+      "Checkbox.Focus.Wide.Dark": "#BC74BF",
+      "Checkbox.Focus.Thin.Default.Dark": "#BC74BF",
+      "Checkbox.Focus.Thin.Selected.Dark": "#BC74BF",
       "Checkbox.Background.Disabled.Dark": "#212026",
       "Checkbox.Border.Disabled.Dark": "#5B4E77",
-      "Checkbox.Foreground.Disabled.Dark": "#B373C0"
+      "Checkbox.Foreground.Disabled.Dark": "#BC74BF"
     }
   }
 }
