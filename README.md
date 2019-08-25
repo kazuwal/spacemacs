@@ -2,5 +2,5 @@
 
 Spacemacs theme for IntelliJ IDEA
 
-![Screenshot: ](images/spacemacs.jp2)
+![Screenshot: ](images/spacemacs.jpg)
 
