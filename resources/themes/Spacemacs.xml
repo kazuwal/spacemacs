@@ -1,21 +1,11 @@
 <scheme name="Spacemacs" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-11-14T00:14:43</property>
+    <property name="created">2020-01-26T10:27:58</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2019-11-14T00:14:51</property>
+    <property name="ideVersion">2019.3.1.0.0</property>
+    <property name="modified">2020-01-26T10:28:06</property>
     <property name="originalScheme">_@user_Spacemacs</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Input Mono Compressed" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="49a27e" />
     <option name="ANNOTATIONS_COLOR" value="b2b2b2" />
@@ -51,7 +41,7 @@
     <option name="FILESTATUS_changelistConflict" value="cc504b" />
     <option name="FILESTATUS_modifiedOutside" value="4f9fdc" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
-    <option name="GUTTER_BACKGROUND" value="212026" />
+    <option name="GUTTER_BACKGROUND" value="1c1b21" />
     <option name="INDENT_GUIDE" value="5a4e76" />
     <option name="INFORMATION_HINT" value="5b4e77" />
     <option name="LINE_NUMBERS_COLOR" value="646a75" />
@@ -581,7 +571,6 @@
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
         <option name="FOREGROUND" value="cc78d7" />
-        <option name="BACKGROUND" value="212026" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -939,8 +928,6 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
-    <option name="Implicit conversion" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="Interpolated String Injection" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="JFLEX_MACROS_REF">
@@ -963,14 +950,7 @@
         <option name="FOREGROUND" value="ff4965" />
       </value>
     </option>
-    <option name="JSON.PROPERTY_KEY">
-      <value>
-        <option name="FOREGROUND" value="4f9fdc" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -993,9 +973,7 @@
       <value />
     </option>
     <option name="KOTLIN_EXCLEXCL">
-      <value>
-        <option name="FOREGROUND" value="89ddff" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
@@ -1022,9 +1000,7 @@
       <value />
     </option>
     <option name="KOTLIN_SMART_CONSTANT">
-      <value>
-        <option name="FOREGROUND" value="ff4965" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="LABEL">
@@ -1080,7 +1056,6 @@
         <option name="FOREGROUND" value="908b25" />
       </value>
     </option>
-    <option name="MAKO.SUBSTITUTION" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="MARKDOWN.AUTO_LINK">
       <value>
         <option name="FOREGROUND" value="ff355b" />
@@ -1151,18 +1126,6 @@
         <option name="FOREGROUND" value="c3cee3" />
       </value>
     </option>
-    <option name="MARKDOWN_AUTO_LINK">
-      <value>
-        <option name="FOREGROUND" value="f78c6c" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="MARKDOWN_BLOCK_QUOTE">
-      <value>
-        <option name="FOREGROUND" value="82aaff" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="MARKDOWN_BLOCK_QUOTE_MARKER">
       <value>
         <option name="FOREGROUND" value="82aaff" />
@@ -1175,25 +1138,8 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="MARKDOWN_BOLD_MARKER">
-      <value>
-        <option name="FOREGROUND" value="717cb4" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="MARKDOWN_CODE_BLOCK">
-      <value>
-        <option name="FOREGROUND" value="c792ea" />
-      </value>
-    </option>
     <option name="MARKDOWN_CODE_FENCE">
       <value />
-    </option>
-    <option name="MARKDOWN_CODE_SPAN">
-      <value>
-        <option name="FOREGROUND" value="c792ea" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
     </option>
     <option name="MARKDOWN_CODE_SPAN_MARKER">
       <value>
@@ -1206,46 +1152,7 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="MARKDOWN_HEADER_LEVEL_1">
-      <value>
-        <option name="FOREGROUND" value="c3e88d" />
-      </value>
-    </option>
-    <option name="MARKDOWN_HEADER_LEVEL_2">
-      <value>
-        <option name="FOREGROUND" value="c3e88d" />
-      </value>
-    </option>
-    <option name="MARKDOWN_HEADER_LEVEL_3">
-      <value>
-        <option name="FOREGROUND" value="c3e88d" />
-        <option name="EFFECT_TYPE" value="4" />
-      </value>
-    </option>
-    <option name="MARKDOWN_HEADER_LEVEL_4">
-      <value>
-        <option name="FOREGROUND" value="c3e88d" />
-        <option name="EFFECT_TYPE" value="4" />
-      </value>
-    </option>
-    <option name="MARKDOWN_HEADER_LEVEL_5">
-      <value>
-        <option name="FOREGROUND" value="c3e88d" />
-        <option name="EFFECT_TYPE" value="4" />
-      </value>
-    </option>
-    <option name="MARKDOWN_HEADER_LEVEL_6">
-      <value>
-        <option name="FOREGROUND" value="c3e88d" />
-        <option name="EFFECT_TYPE" value="4" />
-      </value>
-    </option>
     <option name="MARKDOWN_HEADER_MARKER">
-      <value>
-        <option name="FOREGROUND" value="717cb4" />
-      </value>
-    </option>
-    <option name="MARKDOWN_HRULE">
       <value>
         <option name="FOREGROUND" value="717cb4" />
       </value>
@@ -1255,48 +1162,15 @@
         <option name="FOREGROUND" value="717cb4" />
       </value>
     </option>
-    <option name="MARKDOWN_INLINE_HTML">
-      <value>
-        <option name="FOREGROUND" value="f07178" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
     <option name="MARKDOWN_ITALIC">
       <value>
         <option name="FOREGROUND" value="f07178" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="MARKDOWN_ITALIC_MARKER">
-      <value>
-        <option name="FOREGROUND" value="717cb4" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="MARKDOWN_LINK_DEFINITION">
       <value>
         <option name="FOREGROUND" value="89ddff" />
-      </value>
-    </option>
-    <option name="MARKDOWN_LINK_DESTINATION">
-      <value>
-        <option name="FOREGROUND" value="f78c6c" />
-      </value>
-    </option>
-    <option name="MARKDOWN_LINK_LABEL">
-      <value>
-        <option name="FOREGROUND" value="ffcb6b" />
-      </value>
-    </option>
-    <option name="MARKDOWN_LINK_TEXT">
-      <value>
-        <option name="FOREGROUND" value="82aaff" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="MARKDOWN_LINK_TITLE">
-      <value>
-        <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
     <option name="MARKDOWN_LIST_MARKER">
@@ -1315,21 +1189,17 @@
         <option name="FOREGROUND" value="4f9fdc" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.ANCHOR" baseAttributes="MARKDOWN_NAVIGATOR.INLINE_HTML" />
-    <option name="MARKDOWN_NAVIGATOR.ANCHOR_ID" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="MARKDOWN_NAVIGATOR.ATX_HEADER">
       <value>
         <option name="FOREGROUND" value="eca311" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.AUTO_LINK" baseAttributes="CTRL_CLICKABLE" />
     <option name="MARKDOWN_NAVIGATOR.BOLD">
       <value>
         <option name="FOREGROUND" value="cc4e81" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.BOLD_MARKER" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_CODE_TEXT">
       <value>
         <option name="FOREGROUND" value="a76973" />
@@ -1841,7 +1711,6 @@
         <option name="FOREGROUND" value="4f9fdc" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.CODE" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="MARKDOWN_NAVIGATOR.DEFINITION_MARKER">
       <value>
         <option name="FOREGROUND" value="c3cee3" />
@@ -1852,13 +1721,6 @@
         <option name="FOREGROUND" value="a7da00" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.EMOJI_ID" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="MARKDOWN_NAVIGATOR.EMOJI_MARKER" baseAttributes="MARKDOWN_NAVIGATOR.HTML_ENTITY" />
-    <option name="MARKDOWN_NAVIGATOR.EXPLICIT_LINK" baseAttributes="DEFAULT_BRACKETS" />
-    <option name="MARKDOWN_NAVIGATOR.FOOTNOTE" baseAttributes="DEFAULT_BRACKETS" />
-    <option name="MARKDOWN_NAVIGATOR.FOOTNOTE_ID" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="MARKDOWN_NAVIGATOR.FOOTNOTE_REF" baseAttributes="DEFAULT_BRACKETS" />
-    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT" baseAttributes="MARKDOWN_NAVIGATOR.TEXT" />
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BLOCK_COMMENT_CLOSE">
       <value>
         <option name="FOREGROUND" value="4895a1" />
@@ -3324,12 +3186,6 @@
         <option name="FOREGROUND" value="49a27e" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.HRULE" baseAttributes="MARKDOWN_NAVIGATOR.ATX_HEADER" />
-    <option name="MARKDOWN_NAVIGATOR.HTML_BLOCK" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="MARKDOWN_NAVIGATOR.IMAGE" baseAttributes="DEFAULT_BRACKETS" />
-    <option name="MARKDOWN_NAVIGATOR.IMAGE_LINK_REF" baseAttributes="MARKDOWN_NAVIGATOR.AUTO_LINK" />
-    <option name="MARKDOWN_NAVIGATOR.IMAGE_LINK_REF_TITLE" baseAttributes="MARKDOWN_NAVIGATOR.TEXT" />
-    <option name="MARKDOWN_NAVIGATOR.INLINE_HTML" baseAttributes="MARKDOWN_NAVIGATOR.HTML_BLOCK" />
     <option name="MARKDOWN_NAVIGATOR.ITALIC">
       <value>
         <option name="FOREGROUND" value="cc4e81" />
@@ -3367,30 +3223,16 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.LINE_BREAK_SPACES" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-    <option name="MARKDOWN_NAVIGATOR.LINK_REF" baseAttributes="MARKDOWN_NAVIGATOR.AUTO_LINK" />
-    <option name="MARKDOWN_NAVIGATOR.LINK_REF_ANCHOR" baseAttributes="MARKDOWN_NAVIGATOR.LINK_REF" />
-    <option name="MARKDOWN_NAVIGATOR.LINK_REF_ANCHOR_MARKER" baseAttributes="MARKDOWN_NAVIGATOR.EXPLICIT_LINK" />
-    <option name="MARKDOWN_NAVIGATOR.LINK_REF_TITLE" baseAttributes="MARKDOWN_NAVIGATOR.TEXT" />
-    <option name="MARKDOWN_NAVIGATOR.MAIL_LINK" baseAttributes="MARKDOWN_NAVIGATOR.AUTO_LINK" />
-    <option name="MARKDOWN_NAVIGATOR.ORDERED_LIST" baseAttributes="MARKDOWN_NAVIGATOR.BULLET_LIST" />
-    <option name="MARKDOWN_NAVIGATOR.QUOTE" baseAttributes="DEFAULT_STRING" />
     <option name="MARKDOWN_NAVIGATOR.QUOTED_TEXT_SMARTS">
       <value>
         <option name="FOREGROUND" value="4e6556" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.REFERENCE" baseAttributes="MARKDOWN_NAVIGATOR.FOOTNOTE" />
-    <option name="MARKDOWN_NAVIGATOR.REFERENCE_ANCHOR" baseAttributes="MARKDOWN_NAVIGATOR.REFERENCE_LINK_REF" />
-    <option name="MARKDOWN_NAVIGATOR.REFERENCE_LINK_REF" baseAttributes="MARKDOWN_NAVIGATOR.AUTO_LINK" />
-    <option name="MARKDOWN_NAVIGATOR.REFERENCE_TEXT" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="MARKDOWN_NAVIGATOR.SETEXT_HEADER" baseAttributes="MARKDOWN_NAVIGATOR.ATX_HEADER" />
     <option name="MARKDOWN_NAVIGATOR.SMARTS">
       <value>
         <option name="FOREGROUND" value="4895a1" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.SPECIAL_TEXT" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH">
       <value>
         <option name="FOREGROUND" value="cc4e81" />
@@ -3398,7 +3240,6 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_MARKER" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_BOLD_TEXT">
       <value>
         <option name="FOREGROUND" value="a75348" />
@@ -4664,7 +4505,6 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.SUBSCRIPT_MARKER" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="MARKDOWN_NAVIGATOR.SUBSCRIPT_TEXT_CODE_TEXT">
       <value>
         <option name="FOREGROUND" value="cc78d7" />
@@ -4719,7 +4559,6 @@
         <option name="FOREGROUND" value="4895a1" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.SUPERSCRIPT_MARKER" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="MARKDOWN_NAVIGATOR.SUPERSCRIPT_TEXT_CODE_TEXT">
       <value>
         <option name="FOREGROUND" value="cc78d7" />
@@ -15369,7 +15208,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN" />
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_ABBREVIATED_TEXT">
       <value>
         <option name="FOREGROUND" value="a0848c" />
@@ -17997,7 +17835,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD" />
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_ABBREVIATED_TEXT">
       <value>
         <option name="FOREGROUND" value="a0848c" />
@@ -20625,7 +20462,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN" />
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_ABBREVIATED_TEXT">
       <value>
         <option name="FOREGROUND" value="a0848c" />
@@ -23253,7 +23089,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD" />
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_ABBREVIATED_TEXT">
       <value>
         <option name="FOREGROUND" value="a0848c" />
@@ -25881,8 +25716,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_ROW_EVEN" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_ROW_EVEN" />
-    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_ROW_ODD" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_ROW_ODD" />
     <option name="MARKDOWN_NAVIGATOR.TABLE_ROW_EVEN">
       <value>
         <option name="FOREGROUND" value="ed94ff" />
@@ -25896,8 +25729,6 @@
     <option name="MARKDOWN_NAVIGATOR.TABLE_SEPARATOR">
       <value />
     </option>
-    <option name="MARKDOWN_NAVIGATOR.TABLE_SEP_COLUMN_EVEN" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN" />
-    <option name="MARKDOWN_NAVIGATOR.TABLE_SEP_COLUMN_ODD" baseAttributes="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD" />
     <option name="MARKDOWN_NAVIGATOR.TASK_DONE_ITEM_MARKER">
       <value>
         <option name="FOREGROUND" value="a7da00" />
@@ -25911,10 +25742,6 @@
     <option name="MARKDOWN_NAVIGATOR.TEXT">
       <value />
     </option>
-    <option name="MARKDOWN_NAVIGATOR.TOC" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="MARKDOWN_NAVIGATOR.TOC_OPTION" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="MARKDOWN_NAVIGATOR.UNDERLINE" baseAttributes="MARKDOWN_NAVIGATOR.TEXT" />
-    <option name="MARKDOWN_NAVIGATOR.UNDERLINE_MARKER" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="MARKDOWN_NAVIGATOR.UNDERLINE_TEXT_CODE_TEXT">
       <value>
         <option name="FOREGROUND" value="cc78d7" />
@@ -26140,21 +25967,11 @@
         <option name="FOREGROUND" value="4895a1" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.VERBATIM" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="MARKDOWN_NAVIGATOR.VERBATIM_LANG" baseAttributes="MARKDOWN_NAVIGATOR.VERBATIM" />
-    <option name="MARKDOWN_NAVIGATOR.VERBATIM_MARKER" baseAttributes="MARKDOWN_NAVIGATOR.VERBATIM" />
-    <option name="MARKDOWN_NAVIGATOR.WIKI_LINK_REF" baseAttributes="MARKDOWN_NAVIGATOR.WIKI_LINK" />
-    <option name="MARKDOWN_NAVIGATOR.WIKI_LINK_REF_ANCHOR" baseAttributes="MARKDOWN_NAVIGATOR.WIKI_LINK_REF" />
-    <option name="MARKDOWN_NAVIGATOR.WIKI_LINK_SEPARATOR" baseAttributes="MARKDOWN_NAVIGATOR.WIKI_LINK" />
-    <option name="MARKDOWN_NAVIGATOR.WIKI_LINK_TEXT" baseAttributes="MARKDOWN_NAVIGATOR.WIKI_LINK_REF" />
     <option name="MARKDOWN_STRIKE_THROUGH">
       <value>
         <option name="EFFECT_COLOR" value="a2a2a2" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
-    </option>
-    <option name="MARKDOWN_TABLE_SEPARATOR">
-      <value />
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
@@ -26360,16 +26177,11 @@
     <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
     <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="REST.FIXED" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="REST.INLINE">
       <value>
         <option name="BACKGROUND" value="252b39" />
       </value>
     </option>
-    <option name="REST.INTERPRETED" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="RHTML_COMMENT_ID" baseAttributes="HTML_COMMENT" />
-    <option name="RHTML_EXPRESSION_END_ID" baseAttributes="XML_TAG_NAME" />
-    <option name="RHTML_EXPRESSION_START_ID" baseAttributes="XML_TAG_NAME" />
     <option name="RHTML_OMIT_NEW_LINE_ID">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -26381,8 +26193,9 @@
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
-    <option name="RHTML_SCRIPTLET_END_ID" baseAttributes="XML_TAG_NAME" />
-    <option name="RHTML_SCRIPTLET_START_ID" baseAttributes="XML_TAG_NAME" />
+    <option name="RMARKDOWN_CHUNK">
+      <value />
+    </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="c792ea" />
@@ -26408,16 +26221,12 @@
         <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
-    <option name="RUBY_BAD_CHARACTER" baseAttributes="BAD_CHARACTER" />
-    <option name="RUBY_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
     <option name="RUBY_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
     <option name="RUBY_CONSTANT_DECLARATION" baseAttributes="DEFAULT_CONSTANT" />
     <option name="RUBY_ESCAPE_SEQUENCE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="RUBY_HEREDOC_CONTENT" baseAttributes="TEXT" />
     <option name="RUBY_HEREDOC_ID" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="RUBY_INVALID_ESCAPE_SEQUENCE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-    <option name="RUBY_LINE_CONTINUATION" baseAttributes="DEFAULT_COMMA" />
     <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="RUBY_NTH_REF" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
@@ -26435,6 +26244,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="R_NAMED_ARGUMENT" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Rainbow Parens Level 1 (outermost)">
       <value>
         <option name="FOREGROUND" value="b2b2b2" />
@@ -26716,16 +26526,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="SPEL.BACKGROUND">
-      <value>
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="SPEL.BOUNDS">
-      <value>
-        <option name="FOREGROUND" value="89ddff" />
-      </value>
-    </option>
     <option name="SPY-JS.EXCEPTION">
       <value>
         <option name="FOREGROUND" value="bc74bf" />
@@ -26900,10 +26700,6 @@
     <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="com.plan9.IDENTIFIER" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="com.plan9.INSTRUCTION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="com.plan9.LABEL" baseAttributes="DEFAULT_LABEL" />
-    <option name="com.plan9.PSEUDO_INSTRUCTION" baseAttributes="com.plan9.INSTRUCTION" />
     <option name="com.plan9.REGISTER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="org.elm.TYPE">
       <value>
@@ -26915,8 +26711,9 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
+    <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="org.rust.LIFETIME" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="org.rust.MACRO" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="org.rust.MUT_BINDING" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="org.rust.MUT_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="org.rust.TYPE_PARAMETER" baseAttributes="DEFAULT_IDENTIFIER" />

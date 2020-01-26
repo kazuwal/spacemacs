@@ -1,15 +1,16 @@
 <idea-plugin>
     <id>com.adebesin.spacemacs</id>
     <name>Spacemacs</name>
-    <version>1.6</version>
+    <version>1.7</version>
     <vendor email="gregory.adebesin@gmail.com" url="https://github.com/adebesin/spacemacs">adebesin</vendor>
 
     <description><![CDATA[
-     Spacemacs theme for IntelliJ IDEA
+     Spacemacs colour theme for IntelliJ IDEA integrated development environment
     ]]></description>
 
     <change-notes><![CDATA[
       <ul>
+        <li>1.7   Update markdown, added R colour scheme + small tweaks </li>
         <li>1.6   Small tweaks. Change bump build version </li>
         <li>1.5   Tweak border. Adjust Rust and Kotlin schemes </li>
         <li>1.4   Refine disabled/inactive colors. Change typo color </li>
@@ -22,17 +23,17 @@
     </change-notes>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-    <idea-version since-build="192.0"/>
+     <idea-version since-build="192.5728.12"/>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
          on how to target different products -->
-    <!-- uncomment to enable plugin in all products
+    <!-- uncomment to enable plugin in all products-->
+    <depends>com.intellij.modules.platform</depends>
     <depends>com.intellij.modules.lang</depends>
-    -->
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
-        <themeProvider id="770fee57-2bc9-459d-b6c9-44205db46104" path="/Spacemacs.theme.json"/>
+        <themeProvider id="Spacemacs" path="/Spacemacs.theme.json"/>
     </extensions>
 
     <actions>

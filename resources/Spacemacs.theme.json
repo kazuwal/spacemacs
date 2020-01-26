@@ -105,7 +105,6 @@
       "inactiveUnderlineColor": "#5B4E77",
       "background": "#1C1B21",
       "borderColor": "#372F48",
-      "hoverMaskColor": "#5B4E77",
       "underlinedTabForeground": "#B2B2B2",
       "underlineHeight": 4,
       "underlinedTabBackground": "#1C1B21",
@@ -317,12 +316,11 @@
     },
     "ToolWindow": {
       "Header": {
-        "background": "#5B4E77",
+        "background": "#1C1B21",
         "borderColor": "#372F48",
-        "inactiveBackground": "#5B4E77"
+        "inactiveBackground": "#1C1B21"
       },
       "HeaderTab": {
-        "selectedBackground": "#5B4E77",
         "selectedInactiveBackground": "#5B4E77",
         "hoverBackground": "#5B4E77",
         "hoverInactiveBackground": "#5B4E77",
