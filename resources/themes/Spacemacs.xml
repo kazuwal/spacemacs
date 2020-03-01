@@ -1,9 +1,9 @@
 <scheme name="Spacemacs" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-01-26T10:27:58</property>
+    <property name="created">2020-03-01T14:34:00</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-01-26T10:28:06</property>
+    <property name="ideVersion">2019.3.3.0.0</property>
+    <property name="modified">2020-03-01T14:34:13</property>
     <property name="originalScheme">_@user_Spacemacs</property>
   </metaInfo>
   <colors>
@@ -15,7 +15,8 @@
     <option name="DELETED_LINES_COLOR" value="cc504b" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
-    <option name="DOCUMENTATION_COLOR" value="212026" />
+    <option name="DOCUMENTATION_COLOR" value="5b4e77" />
+    <option name="ERROR_HINT" value="cc504b" />
     <option name="FILESTATUS_ADDED" value="4f9fdc" />
     <option name="FILESTATUS_COPIED" value="b2b2b2" />
     <option name="FILESTATUS_DELETED" value="cc504b" />
@@ -42,7 +43,7 @@
     <option name="FILESTATUS_modifiedOutside" value="4f9fdc" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="1c1b21" />
-    <option name="INDENT_GUIDE" value="5a4e76" />
+    <option name="INDENT_GUIDE" value="372f48" />
     <option name="INFORMATION_HINT" value="5b4e77" />
     <option name="LINE_NUMBERS_COLOR" value="646a75" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="525975" />
@@ -50,16 +51,17 @@
     <option name="MODIFIED_LINES_COLOR" value="eca311" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_SUPPRESSED" value="eeffff" />
-    <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
+    <option name="NOTIFICATION_BACKGROUND" value="5b4e77" />
     <option name="NOT_CHANGED" value="4b526d" />
     <option name="QUESTION_HINT" value="5b4e77" />
     <option name="RECENT_LOCATIONS_SELECTION" value="5b4e77" />
-    <option name="RIGHT_MARGIN_COLOR" value="5a4e76" />
-    <option name="SELECTED_INDENT_GUIDE" value="9c609f" />
-    <option name="SELECTED_TEARLINE_COLOR" value="4f9fdc" />
+    <option name="RIGHT_MARGIN_COLOR" value="372f48" />
+    <option name="SELECTED_INDENT_GUIDE" value="5a4e76" />
+    <option name="SELECTED_TEARLINE_COLOR" value="5b4e77" />
     <option name="SELECTION_BACKGROUND" value="5b4e77c0" />
     <option name="SELECTION_FOREGROUND" value="b2b2b2" />
-    <option name="SEPARATOR_BELOW_COLOR" value="3b3f51" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="372f48" />
+    <option name="SEPARATOR_BELOW_COLOR" value="372f48" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3b3f51" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="5b4e77" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="5b4e77" />
@@ -85,14 +87,14 @@
     <option name="ScrollBar.thumbBorderColor" value="5b4e77" />
     <option name="ScrollBar.thumbColor" value="5b4e77" />
     <option name="ScrollBar.trackColor" value="212026" />
-    <option name="TEARLINE_COLOR" value="5b4e77" />
+    <option name="TEARLINE_COLOR" value="372f48" />
     <option name="TOOLTIP" value="5b4e77" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="8e6ef3c0" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="5a4e76" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="49a27e" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="4895a1" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="cc504b" />
-    <option name="VISUAL_INDENT_GUIDE" value="5a4e76" />
+    <option name="VISUAL_INDENT_GUIDE" value="372f48" />
     <option name="WHITESPACES" value="3b3f51" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="82aaff" />
   </colors>
@@ -135,12 +137,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value>
-        <option name="FOREGROUND" value="82aaff" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
+    <option name="BASH.EXTERNAL_COMMAND" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
@@ -1010,20 +1007,15 @@
     </option>
     <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="LINE_FULL_COVERAGE">
-      <value>
-        <option name="BACKGROUND" value="264b33" />
-      </value>
+      <value />
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="4b1515" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
-      <value>
-        <option name="BACKGROUND" value="12404b" />
-      </value>
+      <value />
     </option>
     <option name="LOG_DEBUG_OUTPUT">
       <value>
