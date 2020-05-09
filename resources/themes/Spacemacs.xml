@@ -1,9 +1,9 @@
 <scheme name="Spacemacs" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-03-01T14:34:00</property>
+    <property name="created">2020-05-09T13:20:10</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-03-01T14:34:13</property>
+    <property name="ideVersion">2020.1.1.0.0</property>
+    <property name="modified">2020-05-09T13:20:19</property>
     <property name="originalScheme">_@user_Spacemacs</property>
   </metaInfo>
   <colors>
@@ -42,7 +42,7 @@
     <option name="FILESTATUS_changelistConflict" value="cc504b" />
     <option name="FILESTATUS_modifiedOutside" value="4f9fdc" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
-    <option name="GUTTER_BACKGROUND" value="1c1b21" />
+    <option name="GUTTER_BACKGROUND" value="222226" />
     <option name="INDENT_GUIDE" value="372f48" />
     <option name="INFORMATION_HINT" value="5b4e77" />
     <option name="LINE_NUMBERS_COLOR" value="646a75" />
@@ -414,7 +414,6 @@
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="cc4e81" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -438,7 +437,6 @@
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
         <option name="FOREGROUND" value="bc74bf" />
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -466,7 +464,6 @@
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="cc4e81" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -479,13 +476,11 @@
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
         <option name="FOREGROUND" value="cc78d7" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="cc4e81" />
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="c8577c" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -499,7 +494,6 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="4f9fdc" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -976,6 +970,11 @@
       <value />
     </option>
     <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
+    <option name="KOTLIN_MUTABLE_VARIABLE">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value />
     </option>
@@ -26219,6 +26218,7 @@
     <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="RUBY_HEREDOC_CONTENT" baseAttributes="TEXT" />
     <option name="RUBY_HEREDOC_ID" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="RUBY_LINE_CONTINUATION" baseAttributes="DEFAULT_COMMA" />
     <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="RUBY_NTH_REF" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
@@ -26624,7 +26624,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="b2b2b2" />
-        <option name="BACKGROUND" value="1c1b21" />
+        <option name="BACKGROUND" value="222226" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
