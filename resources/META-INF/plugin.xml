@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.adebesin.spacemacs</id>
     <name>Spacemacs</name>
-    <version>1.9</version>
+    <version>1.10</version>
     <vendor email="gregory.adebesin@gmail.com" url="https://github.com/adebesin/spacemacs">adebesin</vendor>
 
     <description><![CDATA[
@@ -10,6 +10,7 @@
 
     <change-notes><![CDATA[
       <ul>
+        <li>1.10  Update highlight colour + small tweaks </li>
         <li>1.9   Start using more accurate spacemacs colours + small tweaks </li>
         <li>1.8   Remove pink selection. Tone down border. Tweaks </li>
         <li>1.7   Update markdown, added R colour scheme + small tweaks </li>
