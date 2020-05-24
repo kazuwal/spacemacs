@@ -1,9 +1,9 @@
 <scheme name="Spacemacs" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-05-09T18:13:24</property>
+    <property name="created">2020-05-24T11:38:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-05-09T18:13:37</property>
+    <property name="modified">2020-05-24T11:39:01</property>
     <property name="originalScheme">Spacemacs</property>
   </metaInfo>
   <colors>
@@ -11,7 +11,7 @@
     <option name="ANNOTATIONS_COLOR" value="b2b2b2" />
     <option name="CARET_COLOR" value="eca311" />
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1c1b21" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="222226" />
     <option name="DELETED_LINES_COLOR" value="cc504b" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
@@ -20,7 +20,6 @@
     <option name="FILESTATUS_ADDED" value="" />
     <option name="FILESTATUS_COPIED" value="b2b2b2" />
     <option name="FILESTATUS_DELETED" value="" />
-    <option name="FILESTATUS_HIJACKED" value="" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="b2b2b2" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="" />
@@ -33,10 +32,8 @@
     <option name="FILESTATUS_NOT_CHANGED" value="b2b2b2" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="" />
-    <option name="FILESTATUS_OBSOLETE" value="" />
     <option name="FILESTATUS_RENAMED" value="4f9fdc" />
     <option name="FILESTATUS_SUPPRESSED" value="b2b2b2" />
-    <option name="FILESTATUS_SWITCHED" value="" />
     <option name="FILESTATUS_UNKNOWN" value="" />
     <option name="FILESTATUS_addedOutside" value="" />
     <option name="FILESTATUS_changelistConflict" value="" />
@@ -58,6 +55,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="372f48" />
     <option name="SELECTED_INDENT_GUIDE" value="5a4e76" />
     <option name="SELECTED_TEARLINE_COLOR" value="372f48" />
+    <option name="SELECTION_BACKGROUND" value="575757c0" />
     <option name="SELECTION_FOREGROUND" value="b2b2b2" />
     <option name="SEPARATOR_ABOVE_COLOR" value="372f48" />
     <option name="SEPARATOR_BELOW_COLOR" value="372f48" />
@@ -96,7 +94,6 @@
     <option name="VISUAL_INDENT_GUIDE" value="372f48" />
     <option name="WHITESPACES" value="3b3f51" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="82aaff" />
-    <option name="SELECTION_BACKGROUND" value="5a4e76c0" />
   </colors>
   <attributes>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
@@ -26221,7 +26218,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="R_NAMED_ARGUMENT" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Rainbow Parens Level 1 (outermost)">
       <value>
         <option name="FOREGROUND" value="b2b2b2" />
@@ -26593,8 +26589,8 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Scala Type Alias" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
-    <option name="Scala Type parameter" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="Scala Type Alias" baseAttributes="" />
+    <option name="Scala Type parameter" baseAttributes="" />
     <option name="Static method access" baseAttributes="" />
     <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
     <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />

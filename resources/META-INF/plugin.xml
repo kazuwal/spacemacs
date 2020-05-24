@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.adebesin.spacemacs</id>
     <name>Spacemacs</name>
-    <version>1.11</version>
+    <version>1.13</version>
     <vendor email="gregory.adebesin@gmail.com" url="https://github.com/adebesin/spacemacs">adebesin</vendor>
 
     <description><![CDATA[
@@ -10,6 +10,8 @@
 
     <change-notes><![CDATA[
       <ul>
+        <li>1.13  Fix console colour </li>
+        <li>1.12  Fix selection colour </li>
         <li>1.11  Fix console colour. Fix selection colors. Add additional langs </li>
         <li>1.10  Update highlight colour + small tweaks </li>
         <li>1.9   Start using more accurate spacemacs colours + small tweaks </li>
