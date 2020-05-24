@@ -15,80 +15,79 @@
     <option name="DELETED_LINES_COLOR" value="cc504b" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
-    <option name="DOCUMENTATION_COLOR" value="5b4e77" />
+    <option name="DOCUMENTATION_COLOR" value="372f48" />
     <option name="ERROR_HINT" value="cc504b" />
-    <option name="FILESTATUS_ADDED" value="4f9fdc" />
+    <option name="FILESTATUS_ADDED" value="" />
     <option name="FILESTATUS_COPIED" value="b2b2b2" />
-    <option name="FILESTATUS_DELETED" value="cc504b" />
-    <option name="FILESTATUS_HIJACKED" value="49a27e" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="cc504b" />
+    <option name="FILESTATUS_DELETED" value="" />
+    <option name="FILESTATUS_HIJACKED" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="b2b2b2" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="cc504b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="cc504b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="cc504b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="b2b2b2" />
-    <option name="FILESTATUS_MODIFIED" value="4f9fdc" />
+    <option name="FILESTATUS_MODIFIED" value="" />
     <option name="FILESTATUS_NOT_CHANGED" value="b2b2b2" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="4f9fdc" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="4f9fdc" />
-    <option name="FILESTATUS_OBSOLETE" value="eca311" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="" />
+    <option name="FILESTATUS_OBSOLETE" value="" />
     <option name="FILESTATUS_RENAMED" value="4f9fdc" />
     <option name="FILESTATUS_SUPPRESSED" value="b2b2b2" />
-    <option name="FILESTATUS_SWITCHED" value="4f9fdc" />
-    <option name="FILESTATUS_UNKNOWN" value="cc504b" />
-    <option name="FILESTATUS_addedOutside" value="49a27e" />
-    <option name="FILESTATUS_changelistConflict" value="cc504b" />
-    <option name="FILESTATUS_modifiedOutside" value="4f9fdc" />
+    <option name="FILESTATUS_SWITCHED" value="" />
+    <option name="FILESTATUS_UNKNOWN" value="" />
+    <option name="FILESTATUS_addedOutside" value="" />
+    <option name="FILESTATUS_changelistConflict" value="" />
+    <option name="FILESTATUS_modifiedOutside" value="" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="222226" />
     <option name="INDENT_GUIDE" value="372f48" />
-    <option name="INFORMATION_HINT" value="5b4e77" />
+    <option name="INFORMATION_HINT" value="372f48" />
     <option name="LINE_NUMBERS_COLOR" value="646a75" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="525975" />
     <option name="METHOD_SEPARATORS_COLOR" value="3b3f51" />
     <option name="MODIFIED_LINES_COLOR" value="eca311" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_SUPPRESSED" value="eeffff" />
-    <option name="NOTIFICATION_BACKGROUND" value="5b4e77" />
+    <option name="NOTIFICATION_BACKGROUND" value="372f48" />
     <option name="NOT_CHANGED" value="4b526d" />
-    <option name="QUESTION_HINT" value="5b4e77" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="5b4e77" />
+    <option name="QUESTION_HINT" value="372f48" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="372f48" />
     <option name="RIGHT_MARGIN_COLOR" value="372f48" />
     <option name="SELECTED_INDENT_GUIDE" value="5a4e76" />
-    <option name="SELECTED_TEARLINE_COLOR" value="5b4e77" />
-    <option name="SELECTION_BACKGROUND" value="5b4e77c0" />
+    <option name="SELECTED_TEARLINE_COLOR" value="372f48" />
     <option name="SELECTION_FOREGROUND" value="b2b2b2" />
     <option name="SEPARATOR_ABOVE_COLOR" value="372f48" />
     <option name="SEPARATOR_BELOW_COLOR" value="372f48" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3b3f51" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="5b4e77" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="5b4e77" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="372f48" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="372f48" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="212026" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="5b4e77" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="5b4e77" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="372f48" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="372f48" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="212026" />
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="5b4e77" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="5b4e77" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="372f48" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="372f48" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="212026" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="5b4e77" />
-    <option name="ScrollBar.Mac.thumbColor" value="5b4e77" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="372f48" />
+    <option name="ScrollBar.Mac.thumbColor" value="372f48" />
     <option name="ScrollBar.Mac.trackColor" value="212026" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="5b4e77" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="5b4e77" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="372f48" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="372f48" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="212026" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="5b4e77" />
-    <option name="ScrollBar.Transparent.thumbColor" value="5b4e77" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="372f48" />
+    <option name="ScrollBar.Transparent.thumbColor" value="372f48" />
     <option name="ScrollBar.Transparent.trackColor" value="212026" />
-    <option name="ScrollBar.hoverThumbBorderColor" value="5b4e77" />
-    <option name="ScrollBar.hoverThumbColor" value="5b4e77" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="372f48" />
+    <option name="ScrollBar.hoverThumbColor" value="372f48" />
     <option name="ScrollBar.hoverTrackColor" value="212026" />
-    <option name="ScrollBar.thumbBorderColor" value="5b4e77" />
-    <option name="ScrollBar.thumbColor" value="5b4e77" />
+    <option name="ScrollBar.thumbBorderColor" value="372f48" />
+    <option name="ScrollBar.thumbColor" value="372f48" />
     <option name="ScrollBar.trackColor" value="212026" />
     <option name="TEARLINE_COLOR" value="372f48" />
-    <option name="TOOLTIP" value="5b4e77" />
+    <option name="TOOLTIP" value="372f48" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="8e6ef3c0" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="5a4e76" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="49a27e" />
@@ -97,6 +96,7 @@
     <option name="VISUAL_INDENT_GUIDE" value="372f48" />
     <option name="WHITESPACES" value="3b3f51" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="82aaff" />
+    <option name="SELECTION_BACKGROUND" value="5a4e76c0" />
   </colors>
   <attributes>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
@@ -171,7 +171,7 @@
     <option name="BREADCRUMBS_HOVERED">
       <value>
         <option name="FOREGROUND" value="b2b2b2" />
-        <option name="BACKGROUND" value="5b4e77" />
+        <option name="BACKGROUND" value="372f48" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
@@ -196,7 +196,7 @@
     </option>
     <option name="CODE_LENS_BORDER_COLOR">
       <value>
-        <option name="BACKGROUND" value="5b4e77" />
+        <option name="BACKGROUND" value="372f48" />
       </value>
     </option>
     <option name="CODE_VISION_DEFAULT">
@@ -209,7 +209,7 @@
         <option name="FOREGROUND" value="84ffff" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
         <option name="FOREGROUND" value="536c46" />
@@ -362,8 +362,7 @@
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
-    <option name="Closure braces" baseAttributes="Braces" />
+    <option name="Class" baseAttributes="" />
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
         <option name="FOREGROUND" value="eca311" />
@@ -664,7 +663,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GO_BLOCK_COMMENT" baseAttributes="DEFAULT_BLOCK_COMMENT" />
     <option name="GO_BUILTIN_CONSTANT">
       <value>
@@ -687,17 +685,16 @@
     <option name="GO_LOCAL_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="GO_PACKAGE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="GO_TYPE_REFERENCE" baseAttributes="DEFAULT_CLASS_REFERENCE" />
-    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
-    <option name="HAML_CLASS" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
-    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="HAML_ID" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
-    <option name="HAML_RUBY_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="HAML_TAG" baseAttributes="TEXT" />
-    <option name="HAML_TEXT" baseAttributes="TEXT" />
-    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_CLASS" baseAttributes="" />
+    <option name="HAML_COMMENT" baseAttributes="" />
+    <option name="HAML_FILTER" baseAttributes="" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
+    <option name="HAML_ID" baseAttributes="" />
+    <option name="HAML_RUBY_CODE" baseAttributes="" />
+    <option name="HAML_RUBY_START" baseAttributes="" />
+    <option name="HAML_TAG" baseAttributes="" />
+    <option name="HAML_TEXT" baseAttributes="" />
+    <option name="HAML_XHTML" baseAttributes="" />
     <option name="HOCON_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -944,7 +941,7 @@
         <option name="FOREGROUND" value="ff4965" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -1044,12 +1041,12 @@
         <option name="FOREGROUND" value="eca311" />
       </value>
     </option>
-    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="908b25" />
       </value>
     </option>
+    <option name="MAKO.SUBSTITUTION" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="MARKDOWN.AUTO_LINK">
       <value>
         <option name="FOREGROUND" value="ff355b" />
@@ -25993,7 +25990,7 @@
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b2b2b2" />
-        <option name="BACKGROUND" value="5b4e77" />
+        <option name="BACKGROUND" value="372f48" />
       </value>
     </option>
     <option name="OC.BLOCK_COMMENT">
@@ -26171,11 +26168,13 @@
     <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
     <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REST.FIXED" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="REST.INLINE">
       <value>
         <option name="BACKGROUND" value="252b39" />
       </value>
     </option>
+    <option name="REST.INTERPRETED" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="RHTML_OMIT_NEW_LINE_ID">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -26215,23 +26214,6 @@
         <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
-    <option name="RUBY_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
-    <option name="RUBY_CONSTANT_DECLARATION" baseAttributes="DEFAULT_CONSTANT" />
-    <option name="RUBY_ESCAPE_SEQUENCE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="RUBY_HEREDOC_CONTENT" baseAttributes="TEXT" />
-    <option name="RUBY_HEREDOC_ID" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="RUBY_LINE_CONTINUATION" baseAttributes="DEFAULT_COMMA" />
-    <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="RUBY_NTH_REF" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="RUBY_NUMBER" baseAttributes="DEFAULT_NUMBER" />
-    <option name="RUBY_PARAMDEF_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
-    <option name="RUBY_PARAMETER_ID" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="RUBY_REGEXP" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="RUBY_SPECIFIC_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
-    <option name="RUBY_SYMBOL" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="RUBY_WORDS" baseAttributes="DEFAULT_STRING" />
     <option name="RUNTIME_ERROR">
       <value>
         <option name="EFFECT_COLOR" value="eca311" />
@@ -26611,14 +26593,11 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Scala Immutable Collection" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="Scala Mutable Collection" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Scala Type Alias" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="Scala Type parameter" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
-    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="HTML_ATTRIBUTE_NAME" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="HTML_TAG_NAME" />
+    <option name="Static method access" baseAttributes="" />
+    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
+    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cc78d7" />
@@ -26663,11 +26642,10 @@
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
-    <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="VELOCITY_DIRECTIVE" baseAttributes="JSP_DIRECTIVE_NAME" />
-    <option name="VELOCITY_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="VELOCITY_REFERENCE" baseAttributes="JSP_ATTRIBUTE_NAME" />
-    <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="JSP_SCRIPTING_BACKGROUND" />
+    <option name="VELOCITY_DIRECTIVE" baseAttributes="" />
+    <option name="VELOCITY_KEYWORD" baseAttributes="" />
+    <option name="VELOCITY_REFERENCE" baseAttributes="" />
+    <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="" />
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="eca311" />
@@ -26691,9 +26669,9 @@
     <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_DATA" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="XPATH.KEYWORD" baseAttributes="" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
     <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="com.plan9.REGISTER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="org.elm.TYPE">
@@ -26706,18 +26684,12 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="org.rust.LIFETIME" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="org.rust.MUT_BINDING" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="org.rust.MUT_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="org.rust.TYPE_PARAMETER" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="org.rust.UNSAFE_CODE">
       <value>
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="osmorc.attributeName" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="osmorc.attributeName" baseAttributes="" />
     <option name="osmorc.headerName">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />

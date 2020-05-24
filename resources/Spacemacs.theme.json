@@ -192,11 +192,11 @@
       "tagBackground": "#372F48",
       "tagForeground": "#B2B2B2",
       "Button": {
-        "installForeground": "#372F48",
+        "installForeground": "#B2B2B2",
         "installBorderColor": "#372F48",
-        "installFillForeground": "#222226",
+        "installFillForeground": "#B2B2B2",
         "installFillBackground": "#372F48",
-        "updateForeground": "#222226",
+        "updateForeground": "#B2B2B2",
         "updateBackground": "#372F48"
       },
       "lightSelectionBackground": "#372F48"
