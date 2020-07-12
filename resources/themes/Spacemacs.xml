@@ -15,7 +15,7 @@
     <option name="DELETED_LINES_COLOR" value="cc504b" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
-    <option name="DOCUMENTATION_COLOR" value="372f48" />
+    <option name="DOCUMENTATION_COLOR" value="34343b" />
     <option name="ERROR_HINT" value="cc504b" />
     <option name="FILESTATUS_ADDED" value="" />
     <option name="FILESTATUS_COPIED" value="b2b2b2" />
@@ -40,60 +40,60 @@
     <option name="FILESTATUS_modifiedOutside" value="" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="222226" />
-    <option name="INDENT_GUIDE" value="372f48" />
-    <option name="INFORMATION_HINT" value="372f48" />
+    <option name="INDENT_GUIDE" value="34343b" />
+    <option name="INFORMATION_HINT" value="34343b" />
     <option name="LINE_NUMBERS_COLOR" value="646a75" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="525975" />
     <option name="METHOD_SEPARATORS_COLOR" value="3b3f51" />
     <option name="MODIFIED_LINES_COLOR" value="eca311" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_SUPPRESSED" value="eeffff" />
-    <option name="NOTIFICATION_BACKGROUND" value="372f48" />
+    <option name="NOTIFICATION_BACKGROUND" value="34343b" />
     <option name="NOT_CHANGED" value="4b526d" />
-    <option name="QUESTION_HINT" value="372f48" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="372f48" />
-    <option name="RIGHT_MARGIN_COLOR" value="372f48" />
+    <option name="QUESTION_HINT" value="34343b" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="34343b" />
+    <option name="RIGHT_MARGIN_COLOR" value="34343b" />
     <option name="SELECTED_INDENT_GUIDE" value="5a4e76" />
-    <option name="SELECTED_TEARLINE_COLOR" value="372f48" />
-    <option name="SELECTION_BACKGROUND" value="575757c0" />
+    <option name="SELECTED_TEARLINE_COLOR" value="34343b" />
     <option name="SELECTION_FOREGROUND" value="b2b2b2" />
-    <option name="SEPARATOR_ABOVE_COLOR" value="372f48" />
-    <option name="SEPARATOR_BELOW_COLOR" value="372f48" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="34343b" />
+    <option name="SEPARATOR_BELOW_COLOR" value="34343b" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3b3f51" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="372f48" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="372f48" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="34343b" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="34343b" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="212026" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="372f48" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="372f48" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="34343b" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="34343b" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="212026" />
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="372f48" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="372f48" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="34343b" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="34343b" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="212026" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="372f48" />
-    <option name="ScrollBar.Mac.thumbColor" value="372f48" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="34343b" />
+    <option name="ScrollBar.Mac.thumbColor" value="34343b" />
     <option name="ScrollBar.Mac.trackColor" value="212026" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="372f48" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="372f48" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="34343b" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="34343b" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="212026" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="372f48" />
-    <option name="ScrollBar.Transparent.thumbColor" value="372f48" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="34343b" />
+    <option name="ScrollBar.Transparent.thumbColor" value="34343b" />
     <option name="ScrollBar.Transparent.trackColor" value="212026" />
-    <option name="ScrollBar.hoverThumbBorderColor" value="372f48" />
-    <option name="ScrollBar.hoverThumbColor" value="372f48" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="34343b" />
+    <option name="ScrollBar.hoverThumbColor" value="34343b" />
     <option name="ScrollBar.hoverTrackColor" value="212026" />
-    <option name="ScrollBar.thumbBorderColor" value="372f48" />
-    <option name="ScrollBar.thumbColor" value="372f48" />
+    <option name="ScrollBar.thumbBorderColor" value="34343b" />
+    <option name="ScrollBar.thumbColor" value="34343b" />
     <option name="ScrollBar.trackColor" value="212026" />
-    <option name="TEARLINE_COLOR" value="372f48" />
-    <option name="TOOLTIP" value="372f48" />
+    <option name="TEARLINE_COLOR" value="34343b" />
+    <option name="TOOLTIP" value="34343b" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="8e6ef3c0" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="5a4e76" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="49a27e" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="4895a1" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="cc504b" />
-    <option name="VISUAL_INDENT_GUIDE" value="372f48" />
+    <option name="VISUAL_INDENT_GUIDE" value="34343b" />
     <option name="WHITESPACES" value="3b3f51" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="82aaff" />
+    <option name="SELECTION_BACKGROUND" value="404049c0" />
   </colors>
   <attributes>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
@@ -168,7 +168,7 @@
     <option name="BREADCRUMBS_HOVERED">
       <value>
         <option name="FOREGROUND" value="b2b2b2" />
-        <option name="BACKGROUND" value="372f48" />
+        <option name="BACKGROUND" value="34343b" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
@@ -193,7 +193,7 @@
     </option>
     <option name="CODE_LENS_BORDER_COLOR">
       <value>
-        <option name="BACKGROUND" value="372f48" />
+        <option name="BACKGROUND" value="34343b" />
       </value>
     </option>
     <option name="CODE_VISION_DEFAULT">
@@ -321,16 +321,16 @@
         <option name="FOREGROUND" value="eca311" />
       </value>
     </option>
-    <option name="CSS.COLOR" baseAttributes="CSS.IDENT" />
+    <option name="CSS.COLOR" baseAttributes="" />
     <option name="CSS.FUNCTION">
       <value>
         <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
-    <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="CSS.TAG_NAME" baseAttributes="HTML_TAG_NAME" />
-    <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
+    <option name="CSS.IMPORTANT" baseAttributes="" />
+    <option name="CSS.KEYWORD" baseAttributes="" />
+    <option name="CSS.TAG_NAME" baseAttributes="" />
+    <option name="CSS.URL" baseAttributes="" />
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="4f9fdc" />
@@ -923,16 +923,11 @@
         <option name="FOREGROUND" value="1a1f29" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_KEYWORD">
       <value>
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
-    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="ff4965" />
@@ -966,7 +961,6 @@
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
-    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
         <option name="EFFECT_TYPE" value="1" />
@@ -975,7 +969,6 @@
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value />
     </option>
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
       <value />
     </option>
@@ -995,13 +988,12 @@
     <option name="KOTLIN_SMART_CONSTANT">
       <value />
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="LABEL">
       <value>
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="LESS_VARIABLE" baseAttributes="" />
     <option name="LINE_FULL_COVERAGE">
       <value />
     </option>
@@ -25987,7 +25979,7 @@
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b2b2b2" />
-        <option name="BACKGROUND" value="372f48" />
+        <option name="BACKGROUND" value="34343b" />
       </value>
     </option>
     <option name="OC.BLOCK_COMMENT">
@@ -26165,13 +26157,11 @@
     <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
     <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="REST.FIXED" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="REST.INLINE">
       <value>
         <option name="BACKGROUND" value="252b39" />
       </value>
     </option>
-    <option name="REST.INTERPRETED" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="RHTML_OMIT_NEW_LINE_ID">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -26453,13 +26443,13 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
+    <option name="SASS_COMMENT" baseAttributes="" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="SASS_VARIABLE" baseAttributes="" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="212026" />
