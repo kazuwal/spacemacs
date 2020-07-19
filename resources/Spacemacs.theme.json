@@ -108,15 +108,15 @@
       "underlinedTabForeground": "#B2B2B2",
       "underlineHeight": 4,
       "underlinedTabBackground": "#222226",
-      "inactiveColoredFileBackground": "#22222600"
+      "inactiveColoredFileBackground": "#222226"
     },
     "FileColor": {
-      "Yellow": "#D5930F",
-      "Green": "#49A27E",
-      "Blue": "#4F9FDC",
-      "Violet": "#34343b",
-      "Orange": "#8a3a01",
-      "Rose": "#cc504b"
+      "Yellow": "#222226",
+      "Green": "#222226",
+      "Blue": "#222226",
+      "Violet": "#222226",
+      "Orange": "#222226",
+      "Rose": "#222226"
     },
     "FlameGraph": {
       "JVMBackground": "#222226",
@@ -143,11 +143,11 @@
       "borderColor": "#34343b"
     },
     "Link": {
-      "activeForeground": "#D5930F",
-      "hoverForeground": "#D5930F",
-      "pressedForeground": "#D5930F",
-      "visitedForeground": "#D5930F",
-      "secondaryForeground": "#D5930F"
+      "activeForeground": "#B2B2B2",
+      "hoverForeground": "#B2B2B2",
+      "pressedForeground": "#B2B2B2",
+      "visitedForeground": "#B2B2B2",
+      "secondaryForeground": "#B2B2B2"
     },
     "MemoryIndicator": {
       "usedBackground": "#34343b",
