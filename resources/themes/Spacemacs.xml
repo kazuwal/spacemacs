@@ -1,9 +1,9 @@
 <scheme name="Spacemacs" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-07-26T15:53:53</property>
+    <property name="created">2020-07-26T18:35:05</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.3.0.0</property>
-    <property name="modified">2020-07-26T15:54:01</property>
+    <property name="modified">2020-07-26T18:35:13</property>
     <property name="originalScheme">_@user_Spacemacs</property>
   </metaInfo>
   <colors>
@@ -26453,7 +26453,7 @@
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b2b2b2" />
-        <option name="BACKGROUND" value="444155" />
+        <option name="BACKGROUND" value="5d4d7a" />
       </value>
     </option>
     <option name="SLIM_CLASS">
@@ -26599,7 +26599,7 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b2b2b2" />
-        <option name="BACKGROUND" value="444155" />
+        <option name="BACKGROUND" value="5d4d7a" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
