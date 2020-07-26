@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.adebesin.spacemacs</id>
     <name>Spacemacs</name>
-    <version>1.15</version>
+    <version>1.16</version>
     <vendor email="gregory.adebesin@gmail.com" url="https://github.com/adebesin/spacemacs">adebesin</vendor>
 
     <description><![CDATA[
@@ -10,6 +10,7 @@
 
     <change-notes><![CDATA[
       <ul>
+        <li>2.00  Use full Spacemacs colour palette </li>
         <li>1.15  Update file colours </li>
         <li>1.14  Tone down ui colors </li>
         <li>1.13  Fix console colour </li>
