@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.adebesin.spacemacs</id>
     <name>Spacemacs</name>
-    <version>2.01</version>
+    <version>2.03</version>
     <vendor email="gregory.adebesin@gmail.com" url="https://github.com/adebesin/spacemacs">adebesin</vendor>
 
     <description><![CDATA[
@@ -10,6 +10,8 @@
 
     <change-notes><![CDATA[
       <ul>
+        <li>2.03  Lighten function call </li>
+        <li>2.02  Lighten scroll bar </li>
         <li>2.01  Use selection colour </li>
         <li>2.00  Use full Spacemacs colour palette </li>
         <li>1.15  Update file colours </li>
