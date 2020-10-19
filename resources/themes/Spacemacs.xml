@@ -1,10 +1,10 @@
 <scheme name="Spacemacs" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-07-27T23:49:00</property>
+    <property name="created">2020-10-19T22:19:48</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2020.1.3.0.0</property>
-    <property name="modified">2020-07-27T23:49:11</property>
-    <property name="originalScheme">_@user_Spacemacs</property>
+    <property name="ideVersion">2020.2.1.0.0</property>
+    <property name="modified">2020-10-19T22:19:56</property>
+    <property name="originalScheme">Spacemacs</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="2d9574" />
@@ -321,16 +321,14 @@
         <option name="FOREGROUND" value="ccc53b" />
       </value>
     </option>
-    <option name="CSS.COLOR" baseAttributes="" />
+    <option name="CSS.COLOR" baseAttributes="CSS.IDENT" />
     <option name="CSS.FUNCTION">
       <value>
         <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
-    <option name="CSS.IMPORTANT" baseAttributes="" />
-    <option name="CSS.KEYWORD" baseAttributes="" />
-    <option name="CSS.TAG_NAME" baseAttributes="" />
-    <option name="CSS.URL" baseAttributes="" />
+    <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="2aa1ae" />
@@ -913,8 +911,6 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
