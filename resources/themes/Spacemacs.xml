@@ -28,7 +28,7 @@
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="b2b2b2" />
-    <option name="FILESTATUS_MODIFIED" value="" />
+    <option name="FILESTATUS_MODIFIED" value="4F9FDC" />
     <option name="FILESTATUS_NOT_CHANGED" value="b2b2b2" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="" />
@@ -84,6 +84,7 @@
     <option name="ScrollBar.thumbBorderColor" value="3a3d42" />
     <option name="ScrollBar.thumbColor" value="3a3d42" />
     <option name="ScrollBar.trackColor" value="212026" />
+    <option name="TAB_UNDERLINE" value="4F9FDC" />
     <option name="TEARLINE_COLOR" value="34343b" />
     <option name="TOOLTIP" value="34343b" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="8e6ef3c0" />
