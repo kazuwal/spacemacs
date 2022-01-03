@@ -86,7 +86,7 @@
       "underlineColor": "#34363b",
       "inactiveUnderlineColor": "#34363b",
       "borderColor": "#34363b",
-      "underlineHeight": 5,
+      "underlineHeight": 2,
       "hoverBackground": "#34363b"
     },
     "DragAndDrop": {
@@ -106,7 +106,7 @@
       "background": "#292b2e",
       "borderColor": "#34363b",
       "underlinedTabForeground": "#B2B2B2",
-      "underlineHeight": 5,
+      "underlineHeight": 2,
       "underlinedTabBackground": "#292b2e",
       "inactiveColoredFileBackground": "#292b2e"
     },
@@ -332,7 +332,7 @@
         "hoverInactiveBackground": "#34363b",
         "underlineColor": "#34363b",
         "inactiveUnderlineColor": "#34363b",
-        "underlineHeight": 5
+        "underlineHeight": 2
       },
       "Button": {
         "hoverBackground": "#34363b",
