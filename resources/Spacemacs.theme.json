@@ -92,7 +92,7 @@
     "DragAndDrop": {
       "areaForeground": "#B2B2B2",
       "areaBackground": "#34363b",
-      "areaBorderColor": "#34363b"
+      "borderColor": "#34363b"
     },
     "Editor": {
       "background": "#292b2e",
