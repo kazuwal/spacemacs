@@ -1,5 +1,5 @@
 plugins {
-    id 'org.jetbrains.intellij' version '1.3.0'
+    id 'org.jetbrains.intellij' version '1.4.0'
     id 'java'
 }
 
@@ -8,7 +8,7 @@ version '2.04-SNAPSHOT'
 
 sourceSets {
     main {
-        java{
+        java {
             srcDirs = []
         }
         resources {
@@ -24,9 +24,5 @@ repositories {
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
     version = '2021.3.1'
-}
-patchPluginXml {
-//    changeNotes = """
-//      Add change notes here.<br>
-//      <em>most HTML tags may be used</em>"""
+    updateSinceUntilBuild = false
 }
