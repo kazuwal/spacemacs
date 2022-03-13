@@ -17,9 +17,9 @@
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="34343b" />
     <option name="ERROR_HINT" value="cc504b" />
-    <option name="FILESTATUS_ADDED" value="" />
+    <option name="FILESTATUS_ADDED" value="479e1b" />
     <option name="FILESTATUS_COPIED" value="b2b2b2" />
-    <option name="FILESTATUS_DELETED" value="" />
+    <option name="FILESTATUS_DELETED" value="918181" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="b2b2b2" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="" />
@@ -28,14 +28,14 @@
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="b2b2b2" />
-    <option name="FILESTATUS_MODIFIED" value="" />
+    <option name="FILESTATUS_MODIFIED" value="30C3C3" />
     <option name="FILESTATUS_NOT_CHANGED" value="b2b2b2" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="" />
     <option name="FILESTATUS_RENAMED" value="4f9fdc" />
     <option name="FILESTATUS_SUPPRESSED" value="b2b2b2" />
     <option name="FILESTATUS_UNKNOWN" value="" />
-    <option name="FILESTATUS_addedOutside" value="" />
+    <option name="FILESTATUS_addedOutside" value="0A7700" />
     <option name="FILESTATUS_changelistConflict" value="" />
     <option name="FILESTATUS_modifiedOutside" value="" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
@@ -84,7 +84,8 @@
     <option name="ScrollBar.thumbBorderColor" value="3a3d42" />
     <option name="ScrollBar.thumbColor" value="3a3d42" />
     <option name="ScrollBar.trackColor" value="212026" />
-    <option name="TEARLINE_COLOR" value="34343b" />
+    <option name="TAB_UNDERLINE" value="4F9FDC" />
+    <option name="WATERLINE_COLOR" value="34343b" />
     <option name="TOOLTIP" value="34343b" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="8e6ef3c0" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="5a4e76" />
