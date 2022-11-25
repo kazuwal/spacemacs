@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'com.adebesin'
-version '2.04-SNAPSHOT'
+version '2.04.2-SNAPSHOT'
 
 sourceSets {
     main {
