@@ -1,5 +1,5 @@
 plugins {
-    id 'org.jetbrains.intellij' version '1.6.0'
+    id 'org.jetbrains.intellij' version '1.10.0'
     id 'java'
 }
 
@@ -23,6 +23,7 @@ repositories {
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
-    version = '2022.1'
+    version = "2022.1.1"
+    type = "IU"
     updateSinceUntilBuild = false
 }
